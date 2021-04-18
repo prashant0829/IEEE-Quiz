@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+
+.btn.MuiButton-contained {
+  margin: 20px;
+  width: 200px;
+}
+
+.btn-info.MuiButton-contained {
+  background-color: #2196f3;
+  color: white;
+}
+.btn-info.MuiButton-contained:hover {
+  background-color: #0c6ab6;
+}
+.btn-success.MuiButton-contained {
+  background-color: #4caf50;
+  color: white;
+}
+.btn-success.MuiButton-contained:hover {
+  background-color: #327a34;
+}
+.btn-warning.MuiButton-contained {
+  background-color: #ff9800;
+  color: white;
+}
+.btn-warning.MuiButton-contained:hover {
+  background-color: #cf7c00;
+}
+
+a {
+  text-decoration: none;
+}
