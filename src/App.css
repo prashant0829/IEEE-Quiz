@@ -27,6 +27,21 @@ footer {
   font-size: 20px;
   margin-bottom: 10px;
 }
+img {
+  position: absolute;
+}
+.mit-logo {
+  height: 10vh;
+  top: 0;
+  left: 0;
+  margin: 10px;
+}
+.ieee-logo {
+  height: 8vh;
+  top: 0;
+  right: 0;
+  margin: 10px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -64,7 +79,7 @@ footer {
 
 .btn.MuiButton-contained {
   margin: 20px;
-  width: 200px;
+  width: 250px;
 }
 
 .btn-info.MuiButton-contained {
