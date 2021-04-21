@@ -59,7 +59,10 @@ function App() {
             </div>
           </div>
         </div>
-        <footer>Created By Prashant Bansal</footer>
+        <footer>
+          <p>Created By Prashant Bansal</p>
+          <p>CSE 3rd Year</p>
+        </footer>
       </div>
     </div>
   );
